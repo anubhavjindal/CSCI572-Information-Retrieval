@@ -1,0 +1,27 @@
+1. computer science
+
+computer science        5722018235:62   5722018301:11   5722018101:104  5722018496:16   5722018508:597
+
+
+
+2. information retrieval
+
+information retrieval   5722018235:3    5722018101:11   5722018496:1    5722018508:8
+
+
+
+3. power politics
+
+power politics  5722018301:6    5722018235:3    5722018101:3    5722018496:1    5722018508:3
+
+
+
+4. los angeles
+
+los angeles     5722018235:300  5722018301:85   5722018101:200  5722018496:318  5722018508:174
+
+
+
+5. bruce willis
+
+bruce willis    5722018235:8    5722018301:4
